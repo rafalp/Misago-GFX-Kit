@@ -1,4 +1,3 @@
-==============
 Misago GFX Kit
 ==============
 
@@ -11,17 +10,19 @@ The GFX kit is an Affinity Designer file containing:
 
 
 Todo
-====
+----
 
+- Settle on brand colors
 - White and colored fills as symbols
 - White and colored typoglyphs as symbols
 - White and colored typoglyphs with shadows as symbols
 - Reversed icons (white typoglyphs on colored backgrounds)
 - Export to output jpg/png/ico files
+- Present images in readme
 
 
 Authors
-=======
+-------
 
 **Rafał Pitoń**
 
@@ -31,7 +32,7 @@ Authors
 
 
 Copyright and license
-=====================
+---------------------
 
 Copyright © 2016 `Rafał Pitoń <http://github.com/ralfp>`_
 This program comes with ABSOLUTELY NO WARRANTY.
