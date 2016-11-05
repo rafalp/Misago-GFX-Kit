@@ -59,6 +59,12 @@
       "idiom" : "mac",
       "filename" : "btn-light_512@2x.png",
       "scale" : "2x"
+    },
+    {
+      "size" : "512x512",
+      "idiom" : "mac",
+      "filename" : "btn-light@2x.png",
+      "scale" : "2x"
     }
   ],
   "info" : {
