@@ -1,87 +1,63 @@
 {
   "images" : [
     {
-      "size" : "29x29",
-      "idiom" : "iphone",
-      "filename" : "Logo_iPhoneSettings_29.png",
+      "size" : "16x16",
+      "idiom" : "mac",
+      "filename" : "Logo_16.png",
       "scale" : "1x"
     },
     {
-      "size" : "29x29",
-      "idiom" : "iphone",
-      "filename" : "Logo_iPhoneSettings_29@2x.png",
+      "size" : "16x16",
+      "idiom" : "mac",
+      "filename" : "Logo_16@2x.png",
       "scale" : "2x"
     },
     {
-      "size" : "29x29",
-      "idiom" : "iphone",
-      "filename" : "Logo_iPhoneSettings_29@3x.png",
-      "scale" : "3x"
-    },
-    {
-      "size" : "40x40",
-      "idiom" : "iphone",
-      "filename" : "Logo_iPhoneSpotlight_40@2x.png",
-      "scale" : "2x"
-    },
-    {
-      "size" : "40x40",
-      "idiom" : "iphone",
-      "filename" : "Logo_iPhoneSpotlight_40@3x.png",
-      "scale" : "3x"
-    },
-    {
-      "size" : "60x60",
-      "idiom" : "iphone",
-      "filename" : "Logo_iPhoneApp_60@2x.png",
-      "scale" : "2x"
-    },
-    {
-      "size" : "60x60",
-      "idiom" : "iphone",
-      "filename" : "Logo_iPhoneApp_60@3x.png",
-      "scale" : "3x"
-    },
-    {
-      "size" : "29x29",
-      "idiom" : "ipad",
-      "filename" : "Logo_iPadSettings_29.png",
+      "size" : "32x32",
+      "idiom" : "mac",
+      "filename" : "Logo_32.png",
       "scale" : "1x"
     },
     {
-      "size" : "29x29",
-      "idiom" : "ipad",
-      "filename" : "Logo_iPadSettings_29@2x.png",
+      "size" : "32x32",
+      "idiom" : "mac",
+      "filename" : "Logo_32@2x.png",
       "scale" : "2x"
     },
     {
-      "size" : "40x40",
-      "idiom" : "ipad",
-      "filename" : "Logo_iPadSpotlight_40.png",
+      "size" : "128x128",
+      "idiom" : "mac",
+      "filename" : "Logo_128.png",
       "scale" : "1x"
     },
     {
-      "size" : "40x40",
-      "idiom" : "ipad",
-      "filename" : "Logo_iPadSpotlight_40@2x.png",
+      "size" : "128x128",
+      "idiom" : "mac",
+      "filename" : "Logo_128@2x.png",
       "scale" : "2x"
     },
     {
-      "size" : "76x76",
-      "idiom" : "ipad",
-      "filename" : "Logo_iPadApp_76.png",
+      "size" : "256x256",
+      "idiom" : "mac",
+      "filename" : "Logo_256.png",
       "scale" : "1x"
     },
     {
-      "size" : "76x76",
-      "idiom" : "ipad",
-      "filename" : "Logo_iPadApp_76@2x.png",
+      "size" : "256x256",
+      "idiom" : "mac",
+      "filename" : "Logo_256@2x.png",
       "scale" : "2x"
     },
     {
-      "size" : "83.5x83.5",
-      "idiom" : "ipad",
-      "filename" : "Logo_iPadProApp_83.5@2x.png",
+      "size" : "512x512",
+      "idiom" : "mac",
+      "filename" : "Logo_512.png",
+      "scale" : "1x"
+    },
+    {
+      "size" : "512x512",
+      "idiom" : "mac",
+      "filename" : "Logo_512@2x.png",
       "scale" : "2x"
     }
   ],
