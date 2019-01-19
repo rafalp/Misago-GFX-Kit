@@ -6,9 +6,7 @@ This repository contains GFX kit for Misago.
 The GFX kit is an Affinity Designer file containing artboards with different Misago's items:
 
 - Default share image
-- Typogliphs
-
-Nunito font and svg polygons background are also included.
+- Typoglyphs
 
 Copyrights
 ---------------------
@@ -21,7 +19,7 @@ For the complete license, refer to LICENSE
 
 - - - -
 
-Copyright 2014 The Nunito Project Authors (contact@sansoxygen.com)
+Copyright 2011 The Pacifico Project Authors (https://github.com/Fonthausen/Pacifico)
 
 This Font Software is licensed under the SIL Open Font License, Version 1.1.
 This license is copied below, and is also available with a FAQ at:
