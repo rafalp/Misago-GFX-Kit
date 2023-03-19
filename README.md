@@ -8,6 +8,15 @@ The GFX kit is an Affinity Designer file containing artboards with different Mis
 - Default share image
 - Typoglyphs
 
+
+Favicon generation
+------------------
+
+`favicon.ico` file is generated with imagemagic using following command:
+
+convert "./Placeholder icon (Rounded)-48.png" "./Placeholder icon (Rounded)-32.png" "./Placeholder icon (Rounded)-16.png" ./favicon.ico
+
+
 Copyrights
 ---------------------
 
